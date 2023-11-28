@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Concurrency_Handle\Concurrency_Handle\obj\Debug\net6.0\Concurrency_Handle.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Concurrency_Handle\Concurrency_Handle\obj\Debug\net6.0\Concurrency_Handle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Concurrency_Handle\Concurrency_Handle\obj\Debug\net6.0\Concurrency_Handle.AssemblyInfoInputs.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Concurrency_Handle\Concurrency_Handle\obj\Debug\net6.0\Concurrency_Handle.AssemblyInfo.cs
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Concurrency_Handle\Concurrency_Handle\obj\Debug\net6.0\Concurrency_Handle.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Concurrency_Handle\Concurrency_Handle\obj\Debug\net6.0\Concurrency_Handle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Concurrency_Handle\Concurrency_Handle\obj\Debug\net6.0\Concurrency_Handle.RazorAssemblyInfo.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Concurrency_Handle\Concurrency_Handle\obj\Debug\net6.0\Concurrency_Handle.RazorAssemblyInfo.cs

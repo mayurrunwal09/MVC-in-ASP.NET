@@ -1,0 +1,15 @@
+﻿@model Employee_Dep_Stored_Procedure.Models.Department
+
+<h2>Update Department</h2>
+
+<form asp-action="Update">
+    <input type="hidden" asp-for="DepId" />
+    <div class="form-group">
+        <label asp-for="DepName"></label>
+        <input asp-for="DepName" class="form-control" />
+        <span asp-validation-for="DepName" class="text-danger"></span>
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

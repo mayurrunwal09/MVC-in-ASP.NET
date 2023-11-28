@@ -1,0 +1,57 @@
+﻿@model EmpAndDep_Relations_CRUD.Models.Employee
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<h4>Update Employee</h4>
+
+<div class="row">
+    <div class="col-md-5">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Employee_Id" />
+            <div class="form-group">
+                <label asp-for="Employee_Name" class="control-label"></label>
+                <input asp-for="Employee_Name" class="form-control" />
+                <span asp-validation-for="Employee_Name" class="text-danger"></span>
+            </div>
+
+             <div class="form-group">
+                <label asp-for="Employee_Addr" class="control-label"></label>
+                <input asp-for="Employee_Addr" class="form-control" />
+                <span asp-validation-for="Employee_Addr" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee_DOB" class="control-label"></label>
+                <input asp-for="Employee_DOB" class="form-control" />
+                <span asp-validation-for="Employee_DOB" class="text-danger"></span>
+            </div>
+
+             <div class="form-group">
+                <label asp-for="Employee_Age" class="control-label"></label>
+                <input asp-for="Employee_Age" class="form-control" />
+                <span asp-validation-for="Employee_Age" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Employee_Salary" class="control-label"></label>
+                <input asp-for="Employee_Salary" class="form-control" />
+                <span asp-validation-for="Employee_Salary" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Department_Id" class="control-label">Department Name</label>
+                <select asp-for="Department_Id" class="form-control" asp-items="ViewBag.Department_Id" ></select>
+            </div>
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            <div class="form-group">
+                <input type="submit" value="Edit" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

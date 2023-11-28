@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Model_Popup_Using_StoredProcedure.Models.Employee>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div id="view-all">
+    @await Html.PartialAsync("_ViewAll", Model)
+</div>
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

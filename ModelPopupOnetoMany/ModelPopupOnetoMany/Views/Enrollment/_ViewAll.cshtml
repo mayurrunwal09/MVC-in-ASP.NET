@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ModelPopupOnetoMany.Models.Enrollment >
+<h1 class="text-center"><i class=" text-success"></i> Enrollment List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model=>model.EnrollmentId)</th>
+            <th>@Html.DisplayNameFor(model=>model.DateOfEnrollment)</th>
+            <th>@Html.DisplayNameFor(model=>model.Student.FirstName)</th>
+            <th>@Html.DisplayNameFor(model=>model.Student.LastName)</th>
+            <th>@Html.DisplayNameFor(model=>model.Course.CourseName)</th>
+         
+
+            <th>
+                <a onclick="showInPopup('@Url.Action("AddOrEdit","Enrollment",null,Context.Request.Scheme)','New Enrollment')" class="btn btn-success text-white"><i class="fas fa-random"></i>New Enrollment</a>
+            </th>
+         
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(model=>item.EnrollmentId)</td>
+                <td>@Html.DisplayFor(model=>item.DateOfEnrollment)</td>
+                <td>@Html.DisplayFor(model=>item.Student.FirstName)</td>
+                <td>@Html.DisplayFor(model=>item.Student.LastName)</td>
+                <td>@Html.DisplayFor(model=>item.Course.CourseName)</td>
+             
+
+                <td>
+                    <a onclick="showInPopup('@Url.Action("AddOrEdit","Enrollment",new {id=item.EnrollmentId},Context.Request.Scheme)','Update Student')" class="btn btn-info text-white"><i class="fas fa-pencil-alt"></i> Edit</a>
+                    <form asp-action="Delete" asp-route-id="@item.EnrollmentId" onsubmit="return jQueryAjaxDelete(this)" class="d-inline">
+                        <input type="submit" value="Delete" class="btn btn-danger">
+                    </form>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

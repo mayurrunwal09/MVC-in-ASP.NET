@@ -1,0 +1,23 @@
+﻿@model OneToMany1.Models.Department
+@{
+}
+
+
+<h2>Edit Employee</h2>
+
+<form>
+    <div class="form-group">
+        <label asp-for="DeptName">Name:</label>
+        <input asp-for="DeptName" class="form-control" />
+        <span asp-validation-for="DeptName" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>
+
+<p>
+    <a asp-action="Index">Back to List</a>
+</p>
+

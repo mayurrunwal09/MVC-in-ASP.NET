@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OneToMany1.props" />
+</Project>

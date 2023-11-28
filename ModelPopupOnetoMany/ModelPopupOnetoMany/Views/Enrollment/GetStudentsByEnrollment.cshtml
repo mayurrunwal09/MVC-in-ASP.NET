@@ -1,0 +1,25 @@
+﻿@model List<Student>
+
+<form method="post">
+    <label for="enrollmentId">Enrollment ID:</label>
+    <input type="text" name="enrollmentId" id="enrollmentId" />
+    <input type="submit" value="Search" />
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <h2>Students Enrolled</h2>
+    <ul>
+        @foreach (var student in Model)
+        {
+            <li>@student.FirstName </li>
+            <li>@student.LastName</li>
+            <li>@student.DOB</li>
+            <li>@student.Address</li>
+
+        }
+    </ul>
+}
+else
+{
+    <h2>No students found for the provided Enrollment ID.</h2>}

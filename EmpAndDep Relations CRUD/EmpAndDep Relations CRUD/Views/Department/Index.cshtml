@@ -1,0 +1,40 @@
+﻿@model IEnumerable<EmpAndDep_Relations_CRUD.Models.Department>
+
+
+
+<h4>Department List</h4>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Department_Id)</th>
+            <th>@Html.DisplayNameFor(model => model.Department_Name)</th>
+        </tr>
+        
+       
+    </thead>
+
+    <tbody>
+@foreach(var dep in Model)
+{       
+        <tr>
+            <td>@Html.DisplayFor(modelitem => dep.Department_Id)</td>
+
+            <td>@Html.DisplayFor(modelitem => dep.Department_Name)</td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@dep.Department_Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@dep.Department_Id">View</a> |
+                <a asp-action="Delete" asp-route-id="@dep.Department_Id">Delete</a>
+            </td>
+        </tr>   
+}
+    </tbody>
+</table>
+
+
+
+
+
+
+

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Model_Popup_Using_StoredProcedure.Models.Employee>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model=>model.EmpId)</th>
+            <th>@Html.DisplayNameFor(model=>model.EmpName)</th>
+            <th>@Html.DisplayNameFor(model=>model.MobileNo)</th>
+            <th>@Html.DisplayNameFor(model=>model.City )</th>
+            <th>@Html.DisplayNameFor(model=>model.Department.DepName)</th>
+
+            
+
+
+            <th>
+                <a onclick="showInPopup('@Url.Action("AddOrEdit","Employee",null,Context.Request.Scheme)','New Employee')" class="btn btn-success text-white">New Employee</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor( e => item.EmpId)
+                </td>
+                <td>
+                    @Html.DisplayFor( e => item.EmpName)
+                </td>
+                <td>
+                    @Html.DisplayFor( e => item.MobileNo)
+                </td>
+                <td>
+                    @Html.DisplayFor( e => item.City )
+                </td>
+                <td>
+                    @Html.DisplayFor( e => item.Department.DepName)
+                </td>
+                
+
+
+
+                <td>
+                    <a onclick="showInPopup('@Url.Action("AddOrEdit","Employee",new {id=item.EmpId},Context.Request.Scheme)','Update Employee')" class="btn btn-info text-white"><i class="fas fa-pencil-alt"></i> Edit</a>
+                    <form asp-action="Delete" asp-route-id="@item.EmpId" onsubmit="return jQueryAjaxDelete(this)" class="d-inline">
+                        <input type="submit" value="Delete" class="btn btn-danger">
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

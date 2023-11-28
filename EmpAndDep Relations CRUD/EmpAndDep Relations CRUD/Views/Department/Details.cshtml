@@ -1,0 +1,17 @@
+﻿@model EmpAndDep_Relations_CRUD.Models.Department
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h4>Department List</h4>
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Department_Id)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Department_Id)</dd>
+        
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Department_Name)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Department_Name)</dd>
+    </dl>
+</div>

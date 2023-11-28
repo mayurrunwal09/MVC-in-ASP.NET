@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Model_Popup_Using_StoredProcedure.props" />
+</Project>

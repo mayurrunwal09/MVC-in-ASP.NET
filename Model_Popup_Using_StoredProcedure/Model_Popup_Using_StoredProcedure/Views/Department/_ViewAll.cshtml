@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Model_Popup_Using_StoredProcedure.Models.Department>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model=>model.DepId)</th>
+            <th>@Html.DisplayNameFor(model=>model.DepName)</th>
+
+
+            <th>
+                <a onclick="showInPopup('@Url.Action("AddOrEdit","Department",null,Context.Request.Scheme)','New Department')" class="btn btn-success text-white">New Department</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor( e => item.DepId)
+                </td>
+                <td>
+                    @Html.DisplayFor( e => item.DepName)
+                </td>
+
+
+
+                <td>
+                    <a onclick="showInPopup('@Url.Action("AddOrEdit","Department",new {id=item.DepId},Context.Request.Scheme)','Update Department')" class="btn btn-info text-white"><i class="fas fa-pencil-alt"></i> Edit</a>
+                    <form asp-action="Delete" asp-route-id="@item.DepId" onsubmit="return jQueryAjaxDelete(this)" class="d-inline">
+                        <input type="submit" value="Delete" class="btn btn-danger">
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

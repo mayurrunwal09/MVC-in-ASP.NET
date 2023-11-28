@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Simple_MVC_Using_StoredPro.props" />
+</Project>

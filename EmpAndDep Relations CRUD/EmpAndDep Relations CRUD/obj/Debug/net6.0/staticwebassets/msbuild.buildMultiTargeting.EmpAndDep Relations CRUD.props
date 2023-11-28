@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmpAndDep Relations CRUD.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Employee_Stored_Procedure.props" />
+</Project>

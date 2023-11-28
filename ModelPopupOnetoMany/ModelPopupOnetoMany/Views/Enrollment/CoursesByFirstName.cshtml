@@ -1,0 +1,39 @@
+﻿@model List<Course>
+
+<h2>Courses Enrolled By First Name</h2>
+
+@using (Html.BeginForm("CoursesByFirstName", "Enrollment", FormMethod.Get))
+{
+    <div class="form-group">
+        <label for="firstName">Search by First Name:</label>
+        <input type="text" id="firstName" name="firstName" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+}
+
+@if (Model.Count > 0)
+{
+    <h3>Search Results:</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Course Name</th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var course in Model)
+            {
+                <tr>
+                    <td>@course.CourseName</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No courses found.</p>
+}

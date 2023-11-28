@@ -1,0 +1,174 @@
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\appsettings.json
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.staticwebassets.runtime.json
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.exe
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.deps.json
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.runtimeconfig.json
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.pdb
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Humanizer.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.AssemblyInfoInputs.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.AssemblyInfo.cs
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.RazorAssemblyInfo.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.RazorAssemblyInfo.cs
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets\msbuild.Simple_MVC_Employee.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets\msbuild.build.Simple_MVC_Employee.props
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Simple_MVC_Employee.props
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Simple_MVC_Employee.props
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\scopedcss\bundle\Simple_MVC_Employee.styles.css
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\scopedcss\projectbundle\Simple_MVC_Employee.bundle.scp.css
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.csproj.CopyComplete
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\refint\Simple_MVC_Employee.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.pdb
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.genruntimeconfig.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\ref\Simple_MVC_Employee.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\appsettings.Development.json
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\appsettings.json
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.staticwebassets.runtime.json
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.exe
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.deps.json
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.runtimeconfig.json
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Simple_MVC_Employee.pdb
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Azure.Core.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Azure.Identity.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Humanizer.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.CodeDom.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Text.Json.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.csproj.AssemblyReference.cache
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.AssemblyInfoInputs.cache
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.AssemblyInfo.cs
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.csproj.CoreCompileInputs.cache
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.MvcApplicationPartsAssemblyInfo.cache
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.RazorAssemblyInfo.cache
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.RazorAssemblyInfo.cs
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets.build.json
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets.development.json
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets\msbuild.Simple_MVC_Employee.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets\msbuild.build.Simple_MVC_Employee.props
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Simple_MVC_Employee.props
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Simple_MVC_Employee.props
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\scopedcss\bundle\Simple_MVC_Employee.styles.css
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\scopedcss\projectbundle\Simple_MVC_Employee.bundle.scp.css
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.csproj.CopyComplete
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\refint\Simple_MVC_Employee.dll
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.pdb
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\Simple_MVC_Employee.genruntimeconfig.cache
+D:\Cdrive User\ASP.NET CORE APP\Simple_MVC_Employee\Simple_MVC_Employee\obj\Debug\net6.0\ref\Simple_MVC_Employee.dll

@@ -1,0 +1,59 @@
+﻿@model IEnumerable<EmpAndDep_Relations_CRUD.Models.Employee>
+
+
+
+
+<h4>Employee List</h4>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Employee_Id)</th>
+            <th>@Html.DisplayNameFor(model => model.Employee_Name)</th>
+            <th>@Html.DisplayNameFor(model => model.Employee_Addr)</th>
+            <th>@Html.DisplayNameFor(model => model.Employee_DOB)</th>
+            <th>@Html.DisplayNameFor(model => model.Employee_Age)</th>
+            <th>@Html.DisplayNameFor(model => model.Employee_Salary)</th>
+            <th>@Html.DisplayNameFor(model => model.Department_Id)</th>
+            <th>@Html.DisplayNameFor(model => model.Department.Department_Name)</th>
+        </tr>
+
+
+    </thead>
+
+    <tbody>
+        @foreach (var dep in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelitem => dep.Employee_Id)</td>
+
+                <td>@Html.DisplayFor(modelitem => dep.Employee_Name)</td>
+
+                <td>@Html.DisplayFor(modelitem => dep.Employee_Addr)</td>
+
+                <td>@Html.DisplayFor(modelitem => dep.Employee_DOB)</td>
+
+                <td>@Html.DisplayFor(modelitem => dep.Employee_Age)</td>
+
+                <td>@Html.DisplayFor(modelitem => dep.Employee_Salary)</td>
+
+                <td>@Html.DisplayFor(modelitem => dep.Department_Id)</td>
+
+                <td>@Html.DisplayFor(modelitem => dep.Department.Department_Name)</td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@dep.Employee_Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@dep.Employee_Id">View</a> |
+                    <a asp-action="Delete" asp-route-id="@dep.Employee_Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+
+
+

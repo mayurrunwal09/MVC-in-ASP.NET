@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\newcorespp.props" />
+</Project>

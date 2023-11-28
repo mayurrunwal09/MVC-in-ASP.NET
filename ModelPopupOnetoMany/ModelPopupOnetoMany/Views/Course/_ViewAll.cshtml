@@ -1,0 +1,50 @@
+﻿@model IEnumerable<ModelPopupOnetoMany.Models.Course>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(e => e.CourseId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.CourseName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.Credit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.Instructor)
+            </th>
+
+            <th>
+                <a onclick="showInPopup('@Url.Action("AddOrEdit","Course",null,Context.Request.Scheme)','New Course')" class="btn btn-success text-white">New Course</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor( e => item.CourseId)
+                </td>
+                <td>
+                    @Html.DisplayFor( e => item.CourseName)
+                </td>
+                <td>
+                    @Html.DisplayFor( e => item.Credit)
+                </td>
+                <td>
+                    @Html.DisplayFor( e => item.Instructor)
+                </td>
+
+                <td>
+                    <a onclick="showInPopup('@Url.Action("AddOrEdit","Course",new {id=item.CourseId},Context.Request.Scheme)','Update Course')" class="btn btn-info text-white"><i class="fas fa-pencil-alt"></i> Edit</a>
+                    <form asp-action="Delete" asp-route-id="@item.CourseId" onsubmit="return jQueryAjaxDelete(this)" class="d-inline">
+                        <input type="submit" value="Delete" class="btn btn-danger">
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

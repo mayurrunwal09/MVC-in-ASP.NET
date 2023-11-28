@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Employee_Dep_Stored_Procedure.Models.Employee>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+        }
+
+    </style>
+</head>
+<body>
+    <form method="post" asp-controller="Employee" asp-action="Search">
+        <span>Employeet Name:</span><input type="text" name="EmployeeName" />
+        <input type="submit" value="Search" />
+        <br /><br />
+        <table>
+            <thead>
+                <tr>
+                    <th>Employee Id</th>
+                    <th>Employee Name</th>
+                    <th>Age</th>
+                    <th>MobileNo</th>
+                      <th>DOB</th>
+                       <th>Department</th>
+                    <th>Edit Or Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var customer in Model)
+                {
+                    <tr>
+                        <td>@customer.EmpId</td>
+                        <td>@customer.EmpName</td>
+                        <td>@customer.Age</td>
+                        <td>@customer.MobileNo</td>
+                        <td>@customer.DOB</td>
+                        <td>@customer.Department.DepName </td>
+                        
+
+                        <td>
+                            <a asp-action="Update" asp-route-id="@customer.EmpId">Update</a> |
+                            <a asp-action="Delete" asp-route-id="@customer.EmpId">Delete</a> 
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>
+

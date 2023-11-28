@@ -1,0 +1,21 @@
+﻿@model Employee_Dep_Stored_Procedure.Models.Employee
+
+
+
+<h1>Delete Employee</h1>
+
+<p>Are you sure you want to delete this Department?</p>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.EmpName )
+        </dt>
+
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="EmpId" />
+        <button type="submit" value="Delete " class="btn btn-danger">Delete</button>
+    </form>
+</div>

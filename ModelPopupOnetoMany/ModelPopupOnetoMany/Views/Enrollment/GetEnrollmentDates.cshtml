@@ -1,0 +1,22 @@
+﻿@model List<DateTime>
+
+<form method="post">
+    <label for="studentId">Student ID:</label>
+    <input type="text" name="studentId" id="studentId" />
+    <input type="submit" value="Search" />
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <h2>Enrollment Dates</h2>
+    <ul>
+        @foreach (var date in Model)
+        {
+            <li>@date.ToShortDateString()</li>
+        }
+    </ul>
+}
+else
+{
+    <h2>No enrollment dates found for the provided Student ID.</h2>
+}

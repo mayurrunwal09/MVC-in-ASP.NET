@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Concurrency_Handle.Models.Department>
+
+<h1>Department List</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Department ID</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td>@department.DepartmentId</td>
+                <td>@department.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

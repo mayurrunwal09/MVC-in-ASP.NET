@@ -1,0 +1,17 @@
+﻿@model Employee_Dep_Stored_Procedure.Models.Department
+
+@{
+    ViewData["Title"] = "Create Department";
+}
+
+<h1>Create Department</h1>
+
+<form asp-action="Create">
+    
+    <div class="form-group">
+        <label asp-for="DepName"></label>
+        <input asp-for="DepName" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
